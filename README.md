@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 **jok-shang/jok-shang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,3 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ........................email：2859308825@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...............................BUG竟然能跑
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=chuanzhang&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanzhang&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanzhang&layout=compact&langs_count=6)
