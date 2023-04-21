@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=jok-shang&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![chuanzhang's github stats](https://github-readme-stats.vercel.app/api?username=jok-shang&show_icons=true&theme=vue)
+![chuanzhang's github stats](https://github-readme-stats.vercel.app/api?username=jok-shang&show_icons=true&theme=vue)![](https://github-readme-stats.vercel.app/api/top-langs/?username=jok-shang&layout=compact&langs_count=6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jok-shang&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jok-shang&layout=compact&langs_count=6)
+
